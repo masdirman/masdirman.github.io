@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Halaman Profil mas Dirman di Github
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Narablog. Praktisi aset digital. Menyukai dan memublikasikan konten seputar blogging, gaya hidup, teknologi, bisnis, properti, kulineran, hiburan dan informasi lain sesuai kebutuhan tren terkini.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
