@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Narablog. Praktisi aset digital.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Narablog. Praktisi aset digital. Menyukai dan memublikasikan konten seputar blogging, gaya hidup, teknologi, bisnis, properti, kulineran, hiburan dan informasi lain sesuai kebutuhan tren terkini.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[halo@dirman.web.id](mailto:halo@dirman.web.id)
